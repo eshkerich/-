@@ -9,3 +9,7 @@
 [Функциональные требования](./functional_requirements.md)
 
 ---
+
+[Список таблиц для БД](./entities.md)
+
+---
