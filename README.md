@@ -5,24 +5,12 @@
 
 ---
 
-### Материалы проекта
+## Материалы проекта
 
-<details>
-<summary> Функциональные требования</summary>
+- ### [Функциональные требования](./functional_requirements.md)
 
-[Функциональные требования](./functional_requirements.md)
-</details>
+- ### [Даталогическая модель](./entities.md)
 
-<details>
-<summary>Список таблиц</summary>
-
-[Список таблиц для БД](./entities.md)
-</details>
-
-<details>
-<summary>Инфологическая модель</summary>
-
-[Не нормализованная предлагаемая инфологическая модель БД](./PizzaDB.png)
-</details>
+- ### [Нормализованная схема БД](./PizzaDB.png)
 
 ---
